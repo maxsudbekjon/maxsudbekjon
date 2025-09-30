@@ -1,27 +1,43 @@
-# 👋 Salom, men Maxsudman!  
+# 👋 Assalomu alaykum, men [Ismingiz]man  
 
-Men **Python Backend Developer**man. Asosan Django, DRF, FastAPI, Celery, PostgreSQL, Redis va Docker bilan ishlayman.  
-## 🛠️ Texnologiyalar
+Men **Python Backend Developer** sifatida 3+ yillik tajribaga egaman. Asosan yuqori yuklamali backend tizimlar, API dizayni va mikroxizmatlar arxitekturasi bilan ishlayman.  
 
-- Python 🐍 | Django | DRF | FastAPI  
-- Celery | Redis | PostgreSQL  
-- Docker | GitHub Actions | Linux  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-## 🚀 Eng yaxshi loyihalarim  
+---
 
-- [E-commerce API](https://github.com/username/ecommerce-api) – Django + DRF + JWT bilan to‘liq e-commerce backend  
-- [Telegram Bot](https://github.com/username/telegram-bot) – Aiogram + FastAPI bilan yozilgan bot  
-- [Task Queue](https://github.com/username/task-queue) – Celery + Redis + Docker bilan background task management  
-## 📊 GitHub statistikalarim  
+## 🛠 Texnologiyalar va qiziqishlarim  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)  
-## 📫 Menga bog‘lanish  
+- Python, Django, Django REST Framework, FastAPI  
+- Celery, Redis, PostgreSQL, MySQL  
+- Docker, Docker Compose, GitHub Actions (CI/CD)  
+- Asynchronous programming (asyncio, websockets)  
+- Distributed systems, API design, database optimization  
+
+---
+
+## 🚀 Loyihalarimdan namunalar  
+
+🔹 [E-commerce API](https://github.com/username/ecommerce-api)  
+_To‘liq backend: Django + DRF + JWT Auth, Celery va Redis bilan background tasks, Docker-compose orqali deploy._  
+
+🔹 [Task Queue Manager](https://github.com/username/task-queue)  
+_Celery + Redis asosida kengaytiriladigan (scalable) background jobs tizimi._  
+
+🔹 [FastAPI Microservices](https://github.com/username/fastapi-microservices)  
+_FastAPI + gRPC orqali mikroxizmatlar muloqoti, PostgreSQL bilan ishlash, Docker-compose integratsiyasi._  
+
+---
+
+## 📊 GitHub statistikalar  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=default)  
+
+---
+
+## 📫 Bog‘lanish  
 
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
 - Telegram: [@username](https://t.me/username)  
-- Email: user@gmail.com  
+- Email: yourmail@example.com  
+
+---
