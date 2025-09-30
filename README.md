@@ -37,12 +37,6 @@
 
 ---
 
-### 📊 Statistikalar
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsudbekjon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsudbekjon&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=maxsudbekjon&theme=radical)
-
----
 
 ### 📫 Bog‘lanish
 - LinkedIn: [linkedin.com/in/maxsud-toshpulatov](https://www.linkedin.com/in/maxsud-toshpulatov-276174309)  
@@ -77,12 +71,6 @@
 
 ---
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsudbekjon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsudbekjon&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=maxsudbekjon&theme=radical)
-
----
 
 ### 📫 Contact
 - LinkedIn: [linkedin.com/in/maxsud-toshpulatov](https://www.linkedin.com/in/maxsud-toshpulatov-276174309)  
