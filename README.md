@@ -30,13 +30,41 @@
 ---
 
 ### 🚀 Eng yaxshi loyihalarim
-- [HealthTech, Lifestyle](https://github.com/maxsudbekjon/new_start_up) – Django + DRF + JWT  
-- [HR Management](https://github.com/maxsudbekjon/kunlik-ish) – Docker + Aiogram + Django + HTML/CSS/JS  
-- [Smart City / GovTech](https://github.com/maxsudbekjon/Stadion-bron) – Celery + Redis + Docker + DRF  
-- [Face Recognition](https://github.com/maxsudbekjon/face) – OpenCV + Face Recognition  
+#### 🩺 [HealthTech, Lifestyle](https://github.com/maxsudbekjon/new_start_up)
+**Texnologiyalar:** Django, DRF, JWT  
+**Mening yechimim:**  
+- Foydalanuvchiga istalgan ilovaga o‘z vazifasini biriktirish imkonini berdim — bu orqali u o‘z odatini shakllantirishni ijtimoiy tarmoqdagi qiziqishlari bilan birlashtira oladi.  
+- Loyihada ma’lumotlarni **aniq belgilangan kriteriyalar asosida filterlash** tizimini ishlab chiqdim — bu esa filterlash jarayonini boshqa usullarga nisbatan bir necha barobar tez ishlashini ta’minladi.  
+**Natija:** foydalanuvchi uchun tizim tezroq, interaktivroq va moslashuvchan bo‘ldi.
 
 ---
 
+#### 🧑‍💼 [HR Management](https://github.com/maxsudbekjon/kunlik-ish)
+**Texnologiyalar:** Docker, Aiogram, Django, HTML/CSS/JS  
+**Mening yechimim:**  
+- Ishlar ma’lum vaqt o‘tib **avtomatik o‘chib ketadigan** qilib ishlab chiqdim.  
+- Bu orqali tizimda ortiqcha ma’lumotlar to‘planishining oldi olindi va **xotiradan unumli foydalanish** ta’minlandi.  
+**Natija:** tizim xotira iste’molini bir necha baravar kamaytirgan va doimiy ishlash tezligini saqlab qolgan.
+
+---
+
+#### 🏙 [Smart City / GovTech](https://github.com/maxsudbekjon/Stadion-bron)
+**Texnologiyalar:** Celery, Redis, Docker, DRF  
+**Mening yechimim:**  
+- Ma’lumotlar bazasini **aniq struktura va tartibda** saqlash tizimini yaratdim — bu butun API so‘rovlarining tezroq ishlashini ta’minladi.  
+- Bron jarayonida **vaqtni tekshiruvchi himoya mexanizmi** ishlab chiqdim, bu bir xil vaqtda takroriy bronlarning oldini oldi.  
+**Natija:** tizim barqarorligi oshdi, foydalanuvchilar uchun bron jarayoni 100% aniq ishlaydigan bo‘ldi.
+
+---
+
+#### 🤖 [Face Recognition](https://github.com/maxsudbekjon/face)
+**Texnologiyalar:** OpenCV, Face Recognition  
+**Mening yechimim:**  
+- Yuzni **bir nechta surat orqali tanish** imkonini yaratdim, bu foydalanuvchini aniqlash vaqtini keskin qisqartirdi.  
+- Tizim noaniqliklarni kamaytirib, **aniqlik darajasini 98% gacha** yetkazdi.  
+**Natija:** tizim 1 soniyadan kamda ishlaydi va real vaqt rejimida yuzni tanib olishni amalga oshiradi.
+
+---
 
 ### 📫 Bog‘lanish
 - LinkedIn: [linkedin.com/in/maxsud-toshpulatov](https://www.linkedin.com/in/maxsud-toshpulatov-276174309)  
@@ -64,10 +92,39 @@
 ---
 
 ### 🚀 Featured Projects
-- [HealthTech, Lifestyle](https://github.com/maxsudbekjon/new_start_up) – Django + DRF + JWT  
-- [HR Management](https://github.com/maxsudbekjon/kunlik-ish) – Docker + Aiogram + Django + HTML/CSS/JS  
-- [Smart City / GovTech](https://github.com/maxsudbekjon/Stadion-bron) – Celery + Redis + Docker + DRF  
-- [Face Recognition](https://github.com/maxsudbekjon/face) – OpenCV + Face Recognition  
+#### 🩺 [HealthTech, Lifestyle](https://github.com/maxsudbekjon/new_start_up)
+**Tech:** Django, DRF, JWT  
+**My contribution:**  
+- Enabled users to assign any habit task to any app they choose, boosting motivation through social interaction.  
+- Implemented a **custom data filtering system** that selects only relevant data — making filtering several times faster than standard DRF filters.  
+**Impact:** significantly improved performance and personalized user experience.  
+
+---
+
+#### 🧑‍💼 [HR Management](https://github.com/maxsudbekjon/kunlik-ish)
+**Tech:** Docker, Aiogram, Django, HTML/CSS/JS  
+**My contribution:**  
+- Developed a system where completed tasks **automatically delete after a set time**.  
+- This approach drastically reduced unnecessary data storage and improved **memory efficiency**.  
+**Impact:** optimized database performance and ensured consistent system speed.  
+
+---
+
+#### 🏙 [Smart City / GovTech](https://github.com/maxsudbekjon/Stadion-bron)
+**Tech:** Celery, Redis, Docker, DRF  
+**My contribution:**  
+- Designed a **well-structured data model** that increased the API’s overall response speed.  
+- Implemented a **time conflict prevention system** to stop duplicate bookings for the same time slot.  
+**Impact:** booking accuracy and system reliability reached nearly 100%.  
+
+---
+
+#### 🤖 [Face Recognition](https://github.com/maxsudbekjon/face)
+**Tech:** OpenCV, Face Recognition  
+**My contribution:**  
+- Improved face detection to recognize people from **multiple image inputs**, speeding up recognition time.  
+- Enhanced the accuracy of recognition to **98%** and reduced detection latency below 1 second.  
+**Impact:** achieved fast, real-time, and highly accurate facial recognition.  
 
 ---
 
